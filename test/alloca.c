@@ -1,4 +1,6 @@
 #include "test.h"
+#include <stdlib.h>
+
 
 void *fn(int x, void *p, int y) { return p; }
 
